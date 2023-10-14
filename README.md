@@ -1,12 +1,13 @@
-<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Welcome!!&fontSize=50&animation=fadeIn&fontAlignY=40" />
+<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&section=header&text=Welcome!!&fontSize=50&animation=fadeIn&fontAlignY=40" />
 
 <img src="https://visitcount.itsvg.in/api?id=4l3xBB&label=Visitors&color=6&icon=5&pretty=true" />
 
 <div align="center">
 
-  <img width="20%" src="images/linux-computer.gif" /><br>
+  <img width="20%" src="images/programming.gif"/>
+  <img width="15%" src="images/linux-computer.gif" /><br>
 
-  <hr/>
+  <img width="15%" src="images/line.gif" /><br>
 
   <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+4l3x!" /><br/> 
 
@@ -17,7 +18,7 @@
 
 </div>
 
-<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer" />
+<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&section=footer" />
 
 
 
