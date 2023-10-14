@@ -1,5 +1,11 @@
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Welcome%20to%204l3x%27s%20Git%20👨‍💻&width=2000&height=300)](https://github.com/Akshay090/svg-banners)
+<!-- <img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Welcome!!&fontSize=50&animation=fadeIn&fontAlignY=40&fontColor=FFFFFFFF&desc=Let%27s%20start%20exploring%20my%20project" /> -->
 
-<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Welcome!!&fontSize=50&animation=fadeIn&fontAlignY=40&fontColor=FFFFFFFF&desc=Let%27s%20start%20exploring%20my%20project" />
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 <img src="https://visitcount.itsvg.in/api?id=4l3xBB&label=Visitors&color=6&icon=5&pretty=true" />
 
@@ -12,7 +18,7 @@
 
   <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=8900F7FF&center=true&vCenter=true&width=440&lines=👽+Hey%2C+I%E2%80%99m+4l3x!" /><br/> 
 
-  <p><b>Interested about IT Security - Research - DEV <b></p><br/>
+  <p><b>Interested about IT Security - Research - DEV <b></p><img width="5%" src="images/pc.gif"/><br/>
 
   <br />
 	<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux" /></a>
