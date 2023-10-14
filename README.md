@@ -46,7 +46,9 @@
 
 </div>
 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=👨‍💻%20😸&width=2000&height=300)](https://github.com/Akshay090/svg-banners)
+
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 
-<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer"/>
+<!-- <img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer"/> -->
 
