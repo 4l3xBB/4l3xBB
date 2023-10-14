@@ -5,8 +5,8 @@
 
 <div align="center">
 
-  <img width="55%" src="images/programming.gif"/>
-  <img width="42%" src="images/linux-computer.gif" /><br>
+  <img width="40%" src="images/programming.gif"/>
+  <img width="25%" src="images/linux-computer.gif" /><br>
 
   <img width="300%" src="images/line.gif" /><br>
 
