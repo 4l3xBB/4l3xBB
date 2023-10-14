@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=👨‍💻%20Welcome%20to%204l3x%27s%20Git%20👨‍💻&width=2000&height=300)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=👨‍💻%20Welcome%20to%204l3x%27s%20Git%20👨‍💻&width=2000&height=250)](https://github.com/Akshay090/svg-banners)
 <!-- <img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Welcome!!&fontSize=50&animation=fadeIn&fontAlignY=40&fontColor=FFFFFFFF&desc=Let%27s%20start%20exploring%20my%20project" /> -->
 
 <p align="center">
@@ -46,7 +46,7 @@
 
 </div>
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=🤖%20🐧%20👨‍💻%20😸%20🖥️&width=2000&height=300)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=🤖%20🐧%20👨‍💻%20😸%20🖥️&width=2000&height=200)](https://github.com/Akshay090/svg-banners)
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 
