@@ -5,8 +5,8 @@
 
 <div align="center">
 
-  <img width="25%" src="images/programming.gif"/>
-  <img width="20%" src="images/linux-computer.gif" /><br>
+  <img width="55%" src="images/programming.gif"/>
+  <img width="42%" src="images/linux-computer.gif" /><br>
 
   <img width="300%" src="images/line.gif" /><br>
 
@@ -32,11 +32,9 @@
   
   
   </p>
-
   
-  <br><img  width="460" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4l3xBB&theme=radical&hide_border=false" alt="4l3xBB" />&nbsp;
-  <img width="420"  align="center" src="https://github-readme-stats.vercel.app/api?username=4l3xBB&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="4l3xBB" />
-  <br><br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4l3xBB&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="4l3xBB" /><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=4l3xBB&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="4l3xBB" />&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4l3xBB&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="4l3xBB" /><br>
 
  <a href="https://www.buymeacoffee.com/4l3xBB"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=4l3xBB&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
