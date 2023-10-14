@@ -6,7 +6,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Network%20and%20Systems%20Admin%20🌐;Cibersecurity%20Expert🔪;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-
 <img src="https://visitcount.itsvg.in/api?id=4l3xBB&label=Visitors&color=6&icon=5&pretty=true" />
 
 <div align="center">
@@ -16,7 +15,7 @@
 
   <img width="300%" src="images/line.gif" /><br>
 
-  <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=8900F7FF&center=true&vCenter=true&width=440&lines=👽+Hey%2C+I%E2%80%99m+4l3x!" /><br/> 
+  <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=8900F7FF&center=true&vCenter=true&width=440&lines=👽+Hey%2C+I%E2%80%99m+4l3x!" />
 
   <p><b>Interested about IT Security - Research - DEV <b></p><img width="5%" src="images/pc.gif"/><br/>
 
@@ -34,10 +33,10 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;&nbsp;
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> &nbsp;&nbsp;
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   
   
-  </p>
+  <br></p>
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=4l3xBB&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="4l3xBB" />&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4l3xBB&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="4l3xBB" /><br>
