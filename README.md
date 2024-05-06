@@ -34,8 +34,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=4l3xBB&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="4l3xBB" />&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4l3xBB&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="4l3xBB" /><br>
 
- <a href="https://www.buymeacoffee.com/4l3xBB"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=4l3xBB&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
-
 </div>
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=🤖%20🐧%20👨‍💻%20😸%20🖥️&width=2000&height=200)](https://github.com/Akshay090/svg-banners)
