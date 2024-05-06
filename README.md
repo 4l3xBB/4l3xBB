@@ -2,11 +2,7 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Network%20and%20Systems%20Admin%20🌐;Cibersecurity%20Expert🔪;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-<img src="https://visitcount.itsvg.in/api?id=4l3xBB&label=Visitors&color=6&icon=5&pretty=true" />
-
 <div align="center">
 
   <img width="40%" src="images/programming.gif"/>
@@ -14,9 +10,7 @@
 
   <img width="300%" src="images/line.gif" /><br>
 
-  <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=8900F7FF&center=true&vCenter=true&width=440&lines=👽+Hey%2C+I%E2%80%99m+4l3x!" />
-
-  <p><b>Interested about IT Security - Research - DEV <b></p><img width="5%" src="images/pc.gif"/><br/>
+  <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=8900F7FF&center=true&vCenter=true&width=440&lines=👽+4l3x!" />
 
   <br />
 	<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux" /></a>
