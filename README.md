@@ -12,14 +12,6 @@
 	<img width="300%" src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/23a32d16-3096-49f7-91df-78020af784a7" alt="line"/>
 </p>
 
-<!--
-<div align="center">
-  <img width="30%" src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/f66f52e4-c4ce-4cff-bb27-1787b4a1783c" alt="Programming" />
-  <img width="20%" src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/05cb39c8-ae2d-4037-a0d0-8c278a6a83b1" alt="Linux" /><br>
-  <img width="300%" src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/23a32d16-3096-49f7-91df-78020af784a7" alt="Line"/><br>
-</div>
--->
-
 <p align="center">
 	<img width="30%" src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/f66f52e4-c4ce-4cff-bb27-1787b4a1783c" alt="Programming"/>
 	<img width="20%" src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/05cb39c8-ae2d-4037-a0d0-8c278a6a83b1" alt="Linux"/><br>
@@ -34,27 +26,11 @@
 </p>
 
 <p align="center">
-	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/2876e196-6a75-4d65-a92b-2e7221475016" alt="Windows"/>
-	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/9bd387bd-d73c-4cbc-84e2-5b2e5c7b0b15" alt="Windows"/>
 	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/06edb304-143d-4c3e-964a-a81547f47896" alt="Windows"/>
 	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/2a410601-8b59-4f2e-8c40-02edb2d3f45e" alt="Windows"/>
 	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/599795be-0279-4f0d-90b3-2d281d26ad0f" alt="Windows"/>
 	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/e2df66a2-81ad-4384-a3d7-04dd623e69b5" alt="Windows"/>
 	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/e7bce736-a5df-41d8-8a56-707407a85e0a" alt="Windows"/>
-	
-	
-	
-	
+	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/2876e196-6a75-4d65-a92b-2e7221475016" alt="Windows"/>
+	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/9bd387bd-d73c-4cbc-84e2-5b2e5c7b0b15" alt="Windows"/>
 </p>
-
-<!-- RESOURCES README 
-
-CONVERT IMG TO GIF -> https://giphy.com
-DOWNLOAD GIF -> https://tenor.com
-FONT BANNER SVG ANIMATED -> https://readme-typing-svg.herokuapp.com/demo/
-VISITORS COUNT -> https://visitcount.itsvg.in/create
-LOGOS(TAGS) -> https://shields.io/badges
-LOGOS -> https://rahuldkjain.github.io/gh-profile-readme-generator/
-GITHUB STATS DATA -> https://gprm.itsvg.in/
-REMOVE GIF BACKGROUND -> https://www.unscreen.com/upload
--->
