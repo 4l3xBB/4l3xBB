@@ -8,16 +8,16 @@
 			          \|__|\|_______\|_______/__/ /\ __\    \|_______|\|_______|
 			                                 |__|/ \|__|
 ```
- <img width="300%" src="images/line.gif" />
+ <img width="300%" src="https://github.com/4l3xBB/4l3xBB/blob/main/assets/line.gif" />
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 </p>
 <div align="center">
 
-  <img width="30%" src="images/programming.gif"/>
-  <img width="20%" src="images/linux-computer.gif" /><br>
+  <img width="30%" src="https://github.com/4l3xBB/4l3xBB/blob/main/assets/programming.gif"/>
+  <img width="20%" src="https://github.com/4l3xBB/4l3xBB/blob/main/assets/linux-computer.gif" /><br>
 
-  <img width="300%" src="images/line.gif" /><br>
+  <img width="300%" src="https://github.com/4l3xBB/4l3xBB/blob/main/assets/line.gif" /><br>
 
 </div>
 
