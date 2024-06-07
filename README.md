@@ -19,8 +19,8 @@
 
 <p align="center">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://github.com/4l3xBB/BeyondFlare/assets/147928622/4daf0b32-438a-4c92-9cbf-35e8813745b4" />
-		<source media="(prefers-color-scheme: light)" srcset="https://github.com/4l3xBB/BeyondFlare/assets/147928622/b28e9006-276d-4224-b079-a1db9022d3aa" />
+		<source media="(prefers-color-scheme: dark)" srcset="https://github.com/4l3xBB/BeyondFlare/assets/147928622/4daf0b32-438a-4c92-9cbf-35e8813745b4"/>
+		<source media="(prefers-color-scheme: light)" srcset="https://github.com/4l3xBB/BeyondFlare/assets/147928622/b28e9006-276d-4224-b079-a1db9022d3aa"/>
 		<img alt="github-snake" src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/4daf0b32-438a-4c92-9cbf-35e8813745b4"/>
 	</picture>
 </p>
@@ -34,6 +34,6 @@
 </p>
 
 <p align="center">
-	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/2876e196-6a75-4d65-a92b-2e7221475016" alt="Windows"/>
 	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/9bd387bd-d73c-4cbc-84e2-5b2e5c7b0b15" alt="Windows"/>
+	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/2876e196-6a75-4d65-a92b-2e7221475016" alt="Windows"/>
 </p>
