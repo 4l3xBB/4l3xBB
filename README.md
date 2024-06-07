@@ -34,7 +34,8 @@
 </p>
 
 <p align="center">
-	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/69d7de68-2912-4cd2-a4be-9505ced6b40a" alt="Windows">
+	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/2876e196-6a75-4d65-a92b-2e7221475016" alt="Windows">
+	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/9bd387bd-d73c-4cbc-84e2-5b2e5c7b0b15" alt="Windows">
 </p>
 
 <!-- RESOURCES README 
