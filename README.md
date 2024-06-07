@@ -23,7 +23,6 @@
 <p align="center">
 	<img width="30%" src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/f66f52e4-c4ce-4cff-bb27-1787b4a1783c" alt="Programming" />
 	<img width="20%" src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/05cb39c8-ae2d-4037-a0d0-8c278a6a83b1" alt="Linux" /><br>
-	<img width="300%" src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/23a32d16-3096-49f7-91df-78020af784a7" alt="Line"/><br>
 </p>
 
 <p align="center">
@@ -32,6 +31,10 @@
 		<source media="(prefers-color-scheme: light)" srcset="https://github.com/4l3xBB/BeyondFlare/assets/147928622/b28e9006-276d-4224-b079-a1db9022d3aa" />
 		<img alt="github-snake" src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/4daf0b32-438a-4c92-9cbf-35e8813745b4" />
 	</picture>
+</p>
+
+<p align="center">
+	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/69d7de68-2912-4cd2-a4be-9505ced6b40a" alt="Windows">
 </p>
 
 <!-- RESOURCES README 
