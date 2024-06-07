@@ -18,9 +18,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/4l3xBB/BeyondFlare/assets/147928622/344b988e-3df5-4bf9-a15d-8540a9153998" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/4l3xBB/BeyondFlare/assets/147928622/344b988e-3df5-4bf9-a15d-8540a9153998" />
-  <img alt="github-snake" src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/344b988e-3df5-4bf9-a15d-8540a9153998" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/4l3xBB/BeyondFlare/assets/147928622/4daf0b32-438a-4c92-9cbf-35e8813745b4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/4l3xBB/BeyondFlare/assets/147928622/b28e9006-276d-4224-b079-a1db9022d3aa" />
+  <img alt="github-snake" src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/4daf0b32-438a-4c92-9cbf-35e8813745b4" />
 </picture>
 
 <!-- RESOURCES README 
