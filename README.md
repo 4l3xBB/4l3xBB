@@ -15,7 +15,6 @@
 _🔵 Sysadmin ✔️_
 
 _🔴 Pentester ⌛🔜_
-
 <p align="center">
 	<img width="30%" src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/c2f4e92c-ef3a-443a-904f-a4af06a35726" alt="Programming"/>
 	<img width="20%" src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/05cb39c8-ae2d-4037-a0d0-8c278a6a83b1" alt="Linux"/><br>
