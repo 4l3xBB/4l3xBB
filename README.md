@@ -12,9 +12,8 @@
 	<img width="300%" src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/23a32d16-3096-49f7-91df-78020af784a7" alt="line"/>
 </p>
 
-_🔵Sysadmin ✔️_
-
-_🔴Pentester ⌛🔜_
+_🔵 Sysadmin ✔️_
+_🔴 Pentester ⌛🔜_
 
 <p align="center">
 	<img width="30%" src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/c2f4e92c-ef3a-443a-904f-a4af06a35726" alt="Programming"/>
