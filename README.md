@@ -12,6 +12,9 @@
 	<img width="300%" src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/23a32d16-3096-49f7-91df-78020af784a7" alt="line"/>
 </p>
 
+_🔵Sysadmin ✔️_
+_🔴Pentester ⌛🔜_
+
 <p align="center">
 	<img width="30%" src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/c2f4e92c-ef3a-443a-904f-a4af06a35726" alt="Programming"/>
 	<img width="20%" src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/05cb39c8-ae2d-4037-a0d0-8c278a6a83b1" alt="Linux"/><br>
@@ -26,9 +29,9 @@
 </p>
 
 <p align="center">
-	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/06edb304-143d-4c3e-964a-a81547f47896" alt="Windows"/>
-	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/2a410601-8b59-4f2e-8c40-02edb2d3f45e" alt="Windows"/>
-	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/599795be-0279-4f0d-90b3-2d281d26ad0f" alt="Windows"/>
+	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/06edb304-143d-4c3e-964a-a81547f47896" alt="Hash"/>
+	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/2a410601-8b59-4f2e-8c40-02edb2d3f45e" alt="MrRobot"/>
+	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/599795be-0279-4f0d-90b3-2d281d26ad0f" alt=""/>
 	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/e2df66a2-81ad-4384-a3d7-04dd623e69b5" alt="Windows"/>
 	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/e7bce736-a5df-41d8-8a56-707407a85e0a" alt="Windows"/>
 </p>
