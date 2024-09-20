@@ -28,16 +28,3 @@ _🔴 Pentester ⌛🔜_
 		<img alt="github-snake" src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/4daf0b32-438a-4c92-9cbf-35e8813745b4"/>
 	</picture>
 </p>
-
-<p align="center">
-	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/06edb304-143d-4c3e-964a-a81547f47896" alt="Hash"/>
-	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/2a410601-8b59-4f2e-8c40-02edb2d3f45e" alt="MrRobot"/>
-	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/599795be-0279-4f0d-90b3-2d281d26ad0f" alt=""/>
-	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/e2df66a2-81ad-4384-a3d7-04dd623e69b5" alt="Windows"/>
-	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/e7bce736-a5df-41d8-8a56-707407a85e0a" alt="Windows"/>
-</p>
-
-<p align="center">
-	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/9bd387bd-d73c-4cbc-84e2-5b2e5c7b0b15" alt="Windows"/>
-	<img src="https://github.com/4l3xBB/BeyondFlare/assets/147928622/2876e196-6a75-4d65-a92b-2e7221475016" alt="Windows"/>
-</p>
