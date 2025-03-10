@@ -21,7 +21,7 @@
 
 <p align="left">
   <a href="https://monkeytype.com/profile/4l3xBB">
-    <img src="https://github.com/4l3xBB/4l3xBB/blob/monkeytype-readme/monkeytype-readme.svg" alt="GIF" width="300"/>
+    <img src="https://raw.githubusercontent.com/4l3xBB/4l3xBB/monkeytype-readme/monkeytype-readme.svg" alt="My Monkeytype profile" width="300" />
   </a>
 </p>
 
