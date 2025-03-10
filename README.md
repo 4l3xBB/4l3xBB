@@ -15,7 +15,10 @@
   <img src="https://github.com/user-attachments/assets/20a21944-4960-477f-ae92-ec65f1bf814d" alt="GIF" width="200"/>
 </p>
 
----
+
+
+<br>
+<br>
 
 <p align="center">
   <img src="https://github.com/4l3xBB/4l3xBB/blob/output/github-contribution-grid-snake-dark.svg" alt="snake:D"/>
