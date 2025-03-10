@@ -22,7 +22,7 @@
 
 <p align="left">
   <a href="https://monkeytype.com/profile/4l3xBB">
-    <img src="https://raw.githubusercontent.com/4l3xBB/4l3xBB/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" width="325" />
+    <img src="https://raw.githubusercontent.com/4l3xBB/4l3xBB/monkeytype-readme/monkeytype-readme.svg" alt="My Monkeytype profile" width="325" />
   </a>
 </p>
 
